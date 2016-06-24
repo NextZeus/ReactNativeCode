@@ -1,0 +1,15 @@
+{
+  "name": "reactnative",
+  "version": "1.0.0",
+  "description": "demo code",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xiaodong.li",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-native": "^0.28.0"
+  }
+}
