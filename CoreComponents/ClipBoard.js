@@ -1,3 +1,8 @@
+//video url : https://www.youtube.com/watch?v=VZuVCBPPbC8&index=2&list=PLrHpDKNHozG6EKVeWyrwqL3kwZn7-XLCB
+//npm install react-native-clipboard
+//xcode add Library to Project
+
+
 var {
 	AppRegistry,
 	StyleSheet,
