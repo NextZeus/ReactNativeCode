@@ -9,7 +9,7 @@
   "author": "xiaodong.li",
   "license": "ISC",
   "dependencies": {
-    "react": "^15.1.0",
-    "react-native": "^0.28.0"
+    "react": "^16.3.1",
+    "react-native": "^0.55.2"
   }
 }
